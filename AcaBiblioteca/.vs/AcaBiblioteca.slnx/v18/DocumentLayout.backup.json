@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|e:\\users\\juan\\documents\\github\\acabiblioteca\\acabiblioteca\\acabiblioteca\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|e:\\users\\juan\\documents\\github\\acabiblioteca\\acabiblioteca\\acabiblioteca\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|e:\\users\\juan\\documents\\github\\acabiblioteca\\acabiblioteca\\acabiblioteca\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|e:\\users\\juan\\documents\\github\\acabiblioteca\\acabiblioteca\\acabiblioteca\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\acabiblioteca\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmLibros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\FrmLibros.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmLibros.cs",
+              "ToolTip": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\FrmLibros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcaBiblioteca\\FrmLibros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T04:19:07.98Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\frmPrincipal.cs",
+              "ToolTip": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcaBiblioteca\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T03:51:36.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\Conexion.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\Conexion.cs",
+              "ToolTip": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\Conexion.cs",
+              "RelativeToolTip": "AcaBiblioteca\\Conexion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T02:37:44.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrmUsuarios.cs",
               "DocumentMoniker": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\FrmUsuarios.cs",
               "RelativeDocumentMoniker": "AcaBiblioteca\\FrmUsuarios.cs",
               "ToolTip": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\FrmUsuarios.cs",
               "RelativeToolTip": "AcaBiblioteca\\FrmUsuarios.cs",
-              "ViewState": "AgIAAAYBAAAAAAAAAAAkwCYBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAiwAkBAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-10T13:29:19.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmUsuarios.Designer.cs",
-              "DocumentMoniker": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\FrmUsuarios.Designer.cs",
-              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmUsuarios.Designer.cs",
-              "ToolTip": "E:\\Users\\JUAN\\Documents\\GitHub\\AcaBiblioteca\\AcaBiblioteca\\AcaBiblioteca\\FrmUsuarios.Designer.cs",
-              "RelativeToolTip": "AcaBiblioteca\\FrmUsuarios.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T13:27:55.35Z",
               "EditorCaption": ""
             }
           ]
