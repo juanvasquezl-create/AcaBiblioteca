@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca_Falla.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca.Frmautores.resources
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca.FrmEditoriales.resources
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca.FrmInicio.resources
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca.FrmLibros.resources
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca.FrmPrestamos.resources
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca.FrmPrincipal.resources
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca.FrmReportes.resources
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca.FrmUsuarios.resources
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca_Falla.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca_Falla.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca_Falla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca_Falla.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca_Falla.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca_Falla.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\AcaBiblioteca\AcaBiblioteca\AcaBiblioteca\obj\Debug\net10.0-windows\AcaBiblioteca_Falla.sourcelink.json
